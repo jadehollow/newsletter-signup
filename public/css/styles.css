@@ -1,0 +1,83 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white;
+  background-color: #524f4f;
+}
+
+#jumbo {
+   
+    
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.middle {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.app-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.twitter-link {
+    text-decoration: none;
+    color: white;
+}
+
+.twitter-link:hover {
+    color: #198754;
+}
+
+.home-link {
+    color: #ff8400;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.home-link:hover {
+    color: #198754;
+}
+
+.success-link {
+    color: #198754;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.success-link:hover {
+    color: #ff8400;
+}
