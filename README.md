@@ -4,4 +4,4 @@ This is a newsletter sign-up web app built using NodeJS/ExpressJS and utilizing 
 
 ## Try it out 
 
-You can check out the web app here: 
+You can check out the web app here: https://newsletter-48447.herokuapp.com/
